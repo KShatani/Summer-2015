@@ -1,0 +1,3 @@
+/home/kshatani/digits-1.0/caffe_best/kenya_scripts/images/imageset1/cat_gray.jpg
+/home/kshatani/digits-1.0/caffe_best/kenya_scripts/images/imageset1/fish-bike.jpg
+/home/kshatani/digits-1.0/caffe_best/kenya_scripts/images/imageset1/cat.jpg
